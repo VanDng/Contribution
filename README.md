@@ -13,7 +13,7 @@ https://github.com/github/docs/pull/9474
 https://github.com/dotnet/dotnet-api-docs/pull/7362
 
 #### nbp
-https://github.com/VanDng/nbp/commits/master (Sadly, the original repo has been archived)
+https://github.com/VanDng/nbp/commits/master
 
 # Source Code
 #### utterance/utterances
