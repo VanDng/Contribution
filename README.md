@@ -20,3 +20,6 @@ https://github.com/VanDng/nbp/commits/master
 # Source Code
 #### utterance/utterances
 https://github.com/utterance/utterances/pull/584
+
+#### Ruud14/Page-Manipulator
+https://github.com/Ruud14/Page-Manipulator/pull/16
