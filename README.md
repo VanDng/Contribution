@@ -24,5 +24,5 @@ https://github.com/utterance/utterances/pull/584
 #### Ruud14/Page-Manipulator
 https://github.com/Ruud14/Page-Manipulator/pull/16
 
-### justdmitry/RecurrentTasks
+#### justdmitry/RecurrentTasks
 https://github.com/justdmitry/RecurrentTasks/pull/13
