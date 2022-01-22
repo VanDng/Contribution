@@ -6,8 +6,6 @@ https://github.com/microsoft/MixedReality-WebRTC/pull/680
 #### MicrosoftDocs/azure-docs
 https://github.com/MicrosoftDocs/azure-docs/pull/80632
 
-https://github.com/MicrosoftDocs/azure-docs/pull/86434
-
 #### Github/doc
 https://github.com/github/docs/pull/9474
 
@@ -25,6 +23,4 @@ https://github.com/utterance/utterances/pull/584
 https://github.com/Ruud14/Page-Manipulator/pull/16
 
 #### justdmitry/RecurrentTasks
-https://github.com/justdmitry/RecurrentTasks/pull/13
-
 https://github.com/justdmitry/RecurrentTasks/pull/14
