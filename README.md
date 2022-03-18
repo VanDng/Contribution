@@ -24,3 +24,6 @@ https://github.com/Ruud14/Page-Manipulator/pull/16
 
 #### justdmitry/RecurrentTasks
 https://github.com/justdmitry/RecurrentTasks/pull/14
+
+#### files-community/Files
+https://github.com/files-community/Files/pull/8695
